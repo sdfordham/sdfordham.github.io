@@ -1,0 +1,70 @@
+@import url(//fonts.googleapis.com/css?family=Noto+Sans);
+body {
+	background-color:#f1f1f1;
+	font-family: "Noto Sans", Sans-serif;
+	color:#333;
+	margin:0;
+	padding:0;
+}
+#wrapper {
+	width:1000px;
+	background-color:#f8f8f8;
+	margin:0 auto;
+	font-size:small;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+}
+#content {
+	width:675px;
+	background-color:#f8f8d8;
+	float:left;
+	padding:10px;
+}
+.menu {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #f8f8b8;
+	border: 1px solid #333;
+}
+.menu li {
+	float: left;
+}
+.menu li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.menu li a:hover {
+	background-color: #f8f8d8;
+}
+.zebra {
+	font-family: "Noto Sans", Sans-serif;
+	margin-left: 15px;
+	width: 640px;
+	text-align: left;
+	border-collapse: collapse;
+}
+.zebra th {
+	font-weight: normal;
+	padding: 10px 8px;
+	border-bottom: 2px solid #6678b1;
+}
+.zebra td {
+	padding: 8px;
+}
+.zebra tr:nth-child(even) td {
+	background: #f8f8b8;
+}
+.fifty {
+	width:50%;
+}
+.thirty {
+	width:30%;
+}
+.twenty {
+	width:20%;
+}
