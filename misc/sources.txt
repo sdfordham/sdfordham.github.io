@@ -1,0 +1,60 @@
+Tomoyuki Abe, Around the nearby cycle functor for $\mathscr{D}$-modules,
+arXiv:1805.00153v1
+
+Pierre Berthelot, Slopes of Frobenius in crystalline cohomology, Algebraic
+geometry [Arcata, 1974] (Ed. R. Hartshorne), Proc. Sympos. Pure Math. 29,
+315–328, Amer. Math. Soc. (1975).
+
+Spencer J. Bloch, Higher Regulators, Algebraic K-Theory, and Zeta Functions of
+Elliptic Curves (CRM Monograph Series)
+
+John Calabrese and Richard P. Thomas, Derived Equivalent Calabi-Yau 3-folds
+from Cubic 4-folds, arXiv:1408.4063
+
+J. W. S. Cassels and E. V. Flynn, Prolegomena to a middlebrow arithmetic
+of curves of genus 2, London Mathematical Society Lecture Note Series, 230,
+Cambridge University Press, Cambridge, 1996.
+
+Brian Conrad, Modular forms, Cohomology and the Ramanujan conjecture, draft 2
+
+Pierre Deligne, Lettre á Quillen, 1985,
+https://publications.ias.edu/sites/default/files/Lettre-a-Quillen.pdf
+
+Laurent Fargues, From local class field to the curve and Vice Versa,
+https://webusers.imj-prg.fr/~laurent.fargues/SaltLake.pdf
+
+Robin Hartshorne, Deformation theory, GTM 257
+
+Melvin Hochster, Some applications of the Frobenius in characteristic 0, Bull.
+Amer. Math. Soc. 84 (1978), no. 5
+
+Joe Harris and Ian Morrison, Moduli of Curves, GTM 187
+
+Yu I. Manin, Cubic Forms: Algebra, Geometry, Arithmetic
+
+J.S. Milne, Algebraic Groups: The Theory of Group Schemes of Finite Type over a
+Field, Cambridge University Press, October 2017
+
+Albert Schwarz, Ilya Shapiro, Twisted de Rham cohomology, homological
+definition of the integral and "Physics over a ring", Nuclear Physics, Section
+B, Volume 809, Issue 3, p. 547-560.
+
+Stanislaw M. Ulam, Adventures of a mathematician, University of California
+Press, Berkeley 94720, 1991
+
+Jared Weinstein, Modular curves at infinite level, Lecture notes 2013 Arizona
+Winter School in Tucson
+http://math.bu.edu/people/jsweinst/AWS/AWSLectureNotes.pdf
+
+Charles A. Weibel, An Introduction to Homological Algebra, Cambridge Studies in
+Advanced Mathematics (Book 38), 1995
+
+Williams, David. Probability with martingales. Cambridge Mathematical
+Textbooks. Cambridge University Press, Cambridge, 1991. xvi+251 pp. ISBN:
+0-521-40455-X; 0-521-40605-6 MR1155402
+
+Don Zagier, How Often Should You Beat your Kids?, Mathematics Magazine,
+Vol. 63, No. 2 (Apr. 1990), pp. 89-92
+
+Eberhard Zeidler, Quantum Field Theory I: Basics in Mathematics and Physics,
+Springer-Verlag, Berlin, 2006
