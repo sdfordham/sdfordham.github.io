@@ -23,6 +23,9 @@ https://publications.ias.edu/sites/default/files/Lettre-a-Quillen.pdf
 Laurent Fargues, From local class field to the curve and Vice Versa,
 https://webusers.imj-prg.fr/~laurent.fargues/SaltLake.pdf
 
+Jean Marc Fontaine, Lettre de Fontaine à Jannsen du 26 novembre 1987
+https://webusers.imj-prg.fr/~pierre.colmez/87-11-26-fontaine-jannsen.pdf
+
 Robin Hartshorne, Deformation theory, GTM 257
 
 Melvin Hochster, Some applications of the Frobenius in characteristic 0, Bull.
