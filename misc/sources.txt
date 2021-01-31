@@ -64,4 +64,6 @@ Vol. 63, No. 2 (Apr. 1990), pp. 89-92
 Eberhard Zeidler, Quantum Field Theory I: Basics in Mathematics and Physics,
 Springer-Verlag, Berlin, 2006
 
-Grimmett, Geoffrey; Stirzaker, David. Probability and random processes. Oxford Science Publications. The Clarendon Press, Oxford University Press, New York, 1982.
+Grimmett, Geoffrey; Stirzaker, David. Probability and random processes.
+Oxford Science Publications. The Clarendon Press,
+Oxford University Press, New York, 1982.
