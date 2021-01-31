@@ -40,6 +40,9 @@ Yu I. Manin, Cubic Forms: Algebra, Geometry, Arithmetic
 J.S. Milne, Algebraic Groups: The Theory of Group Schemes of Finite Type over a
 Field, Cambridge University Press, October 2017
 
+Peter Scholze, Lectures on Analytic Geometry, Available at
+http://www.math.uni-bonn.de/people/scholze/Analytic.pdf
+
 Albert Schwarz, Ilya Shapiro, Twisted de Rham cohomology, homological
 definition of the integral and "Physics over a ring", Nuclear Physics, Section
 B, Volume 809, Issue 3, p. 547-560.
